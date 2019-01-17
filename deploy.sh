@@ -18,9 +18,11 @@ git commit -m 'deploy'
 
 # 如果你想要部署到 https://<USERNAME>.github.io
 # git push -f git@github.com:<biandeshen>/<biandeshen>.github.io.git master
-git push -f https://github.com/biandeshen/biandeshen.github.io.git master
+git push https://github.com/biandeshen/VuepressBlog.git master
+
 
 # 如果你想要部署到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
+git push https://github.com/biandeshen/VuepressBlog.git master:gh-pages
 
 cd -

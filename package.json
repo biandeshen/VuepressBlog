@@ -6,7 +6,6 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy": "bash deploy.sh"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +14,6 @@
     "leancloud-storage": "^3.11.1",
     "valine": "^1.3.4",
     "vuepress-theme-reco": "^0.1.0"
-  }
+  },
+  "devDependencies": {}
 }

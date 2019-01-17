@@ -7,9 +7,10 @@ module.exports = {
     // 主题
     theme: 'reco',
     // 设置输出目录
-    // dest: '/',
-    //根路径
-    base: '/',
+    dest: './dist',
+    //根路径 base 属性的默认值是 /。假如您准备将代码部署到 taoxusheng.github.io/mt-blog/ , 
+    // 那么 base属性就应该被设置成 /mt-blog/。注意：base 属性的值总是以 / 开始并以 / 结束。
+    base: '/VuepressBlog/',
     //主机地址
     host: '127.0.0.1',
     //端口号

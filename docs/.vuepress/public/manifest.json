@@ -1,0 +1,17 @@
+{
+    "name": "biandeshen的blog",
+    "short_name": "biandeshen's blog",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#2196f3",
+    "description": "biandeshen's blog",
+    "theme_color": "blue",
+    "icons": [{
+        "src": "./img/logo.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }],
+    "related_applications": [{
+        "platform": "web"
+    }]
+}

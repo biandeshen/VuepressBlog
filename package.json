@@ -6,6 +6,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
+    "deploy-win": "deploy-win.bat",
+    "deploy-lin": "bash deploy-lin.sh"
   },
   "keywords": [],
   "author": "",
